@@ -1,0 +1,15 @@
+                      Shop Máy Tính TTM58DH                      
+                        Hóa Đơn Bán Hàng                          
+
+          Họ tên khách hàng :  long
+          Địa chỉ :thiên lôi
+          Sản phẩm đã mua:
+          -----------------------------------------
+            STT             Ten        Soluong        Tổng Tiền 
+             1         chuottest         1       200.000 VNĐ
+           -----------------------------------------
+
+         Tổng tiền đã giảm:                    180.000 VNĐ
+         Tổng cộng:                             200.000 VNĐ
+           -----------------------------------------
+                        Xin chân thành cảm ơn !

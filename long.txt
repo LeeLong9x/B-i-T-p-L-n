@@ -1,0 +1,15 @@
+                      Shop Máy Tính CNT57CL                      
+                        Hóa Đơn Bán Hàng                          
+
+          Họ tên khách hàng :  long
+          Địa chỉ :tohieu
+          Sản phẩm đã mua:
+          -----------------------------------------
+            STT             Ten        Soluong        Tổng Tiền 
+             1         chuottest         4       800.000 VNĐ
+           -----------------------------------------
+
+         Tổng tiền đã giảm:                    720.000 VNĐ
+         Tổng cộng:                             800.000 VNĐ
+           -----------------------------------------
+                        Xin chân thành cảm ơn !
